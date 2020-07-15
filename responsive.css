@@ -1,6 +1,6 @@
 @charset "utf-8";
 /* CSS Document */
-@media (max-width: 670px) {
+@media (max-width: 420px) {
 	.calculator {
 		width: 100%;
 	}
