@@ -66,5 +66,6 @@ button:hover {
 
 .bawah p {
 	text-align: left;
-	font-size: 10px;
+	font-size: 12px;
+	font-weight: bold;
 }
