@@ -20,7 +20,6 @@
 	border: none;
 	padding: 0 20px;
 	box-sizing: border-box;
-	border-radius: ;
 }
 
 .calculator-keys {
@@ -39,7 +38,6 @@ button {
 	color: black;
 	width: 25%;
 	outline: none;
-	border-radius: ;
 }
 
 .all-clear, .zero-btn {
