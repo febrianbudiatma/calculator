@@ -10,6 +10,14 @@
 	width: 400px;
 }
 
+.ken2 {
+	width: 70px;
+	display: inline-block;
+	float: left;
+	position: absolute;
+	margin: 15px 0 0 5px;
+}
+
 .calculator-screen {
 	width: 100%;
 	height: 100px;
