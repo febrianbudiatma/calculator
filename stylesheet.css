@@ -1,6 +1,6 @@
 body {
 	background-image: url("bp.jpg");
-	background-size: cover;
+	background-size: contain;
 }
 
 .logotop {
