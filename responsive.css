@@ -1,12 +1,12 @@
 @charset "utf-8";
 
-@media (max-width: 1025px) {
+@media (max-width: 670px) {
 	.calculator {
-		width: 100%;
+		width: 80%;
 	}
 	
 	.logotop {
-		width: 100%;
+		width: 80%;
 	}
 	
 	body {
