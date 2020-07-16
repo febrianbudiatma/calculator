@@ -8,8 +8,16 @@
 	.logotop {
 		width: 100%;
 	}
-	
-	body {
-		background-size: contain;
+}
+
+@media (max-width : 725px ) {
+	.calculator {
+		width: 50%;
+	}
+}
+
+@media (max-width : 425px ) {
+	.calculator {
+		width: 60%;
 	}
 }
