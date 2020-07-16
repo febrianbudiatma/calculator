@@ -1,3 +1,8 @@
+body {
+	background-image: url("bp.jpg");
+	background-size: cover;
+}
+
 .logotop {
 	width: 400px;
 	text-align: center;
