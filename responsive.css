@@ -2,11 +2,11 @@
 
 @media (max-width: 1025px) {
 	.calculator {
-		width: 70%;
+		width: 40%;
 	}
 	
 	.logotop {
-		width: 80%;
+		width: 100%;
 	}
 	
 	body {
